@@ -1,0 +1,4 @@
+{
+  //type guards
+  //typeof --->guard
+}
